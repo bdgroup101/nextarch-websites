@@ -1,11 +1,11 @@
 {
-  "name": "react-portfolio-template",
+  "name": "nextarch-websites",
   "private": true,
-  "description": "Portfolio Template For Awesome Peoples",
+  "description": "NextArch Architects Website",
   "version": "0.1.0",
-  "author": "Chetan Verma <hello@chetanverma.com>",
+  "author": "BD Group <group101bd@gmail.com>",
   "dependencies": {
-    "gatsby": "2.32.2",
+    "gatsby": "2.30.1",
     "gatsby-image": "^2.5.0",
     "gatsby-plugin-manifest": "^2.6.1",
     "gatsby-plugin-offline": "^3.4.0",
