@@ -15,7 +15,7 @@ import instagramIcon from "./images/instagram.svg"
 export default {
 
   //   Header Details ---------------------
-  name: "NextArch",
+  name: "NextArch Architect",
   headerTagline: [
     //Line 1 For Header
     "Architecture is the learned game,",
